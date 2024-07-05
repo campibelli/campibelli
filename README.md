@@ -12,6 +12,8 @@ I'm a Systems Analyst, currently pursuing my degree at IMEPAC - Minas Gerais, Br
 Specifically interested in Low-Level Programming, with a passion for Arduino, C, C++ and Go, my newest-found love.
 With a computer in my hand since i was 7, the *necessity* to learn everything on my own, and endless curiosity: I've been exploring various technologies, like Java phones and their intrincasies, Lua game-modding and, most recently, Python Machine Learning!
 
+**I'm also a Cybersec eternal apprentice** 🐉
+
 ## My Passion? 💞
 Databases! With multiple certificates, for both Data Modeling and real-world application of concepts, i hold constant progress in the studies and updates of [SQLite],[MySQL],[PostgreSQL],[MongoDB],[CouchDB],[REDIS]; And i wish to go further.
 
@@ -20,6 +22,7 @@ Databases! With multiple certificates, for both Data Modeling and real-world app
 - [E-Commerce, Angular]: On hold...
 
 ## Current Studies ✏️
+- CyberSecurity
 - Machine Learning/Artificial Inteligence.
 - Go
 - Angular

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/campibelli/campibelli/assets/159489906/72e0e409-b044-4f4c-88ad-26b31953aa15" alt="minemine">
+  <img src="https://github.com/campibelli/campibelli/assets/159489906/72e0e409-b044-4f4c-88ad-26b31953aa15" alt="minemine" style="max-width: 100%; width: 100%;">
 </p>
 
 <h2 id="readme-en" align="center">About Me</h2>
